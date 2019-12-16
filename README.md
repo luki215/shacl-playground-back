@@ -5,7 +5,7 @@ This repo has [corresponding FE part](https://github.com/luki215/shacl-playgroun
 # Installation
 Recomended using VSCode with [Remote extension installed](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack). You can just clone the repository, open in VSCode, reopen it in container and you have all the development environment set up including the debugger.
 
-Othervise you can just run 
+Otherwise you can just run 
 ```docker-compose up```
 
 ## Installing new pypi packages
